@@ -1,0 +1,22 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "burger-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaidanabbas/burger-api.git"
+  },
+  "author": "abbas zaidan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaidanabbas/burger-api/issues"
+  },
+  "homepage": "https://github.com/zaidanabbas/burger-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
